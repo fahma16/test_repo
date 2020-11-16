@@ -1,3 +1,4 @@
 Coba nike tambahkan tulisan di note ini:
--
--
+- halo
+- ini aku coba2 ya
+bai
